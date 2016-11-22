@@ -1,0 +1,72 @@
+.ball{
+	position: absolute;
+    top: 200px; 
+	left: 200px;
+	width: 30px;
+	height: 150px;
+	color: black;
+	/*
+	background-color: grey;
+	border: 1px solid black;*/
+	text-align: center;	
+	transform-origin: 100% 100%; /* Drehpunkt ist untere reche Ecke */
+}
+
+.ball p{
+	background-color: black;
+	margin-top: 0px;
+}
+
+#ball1 { 
+    background-color: ; 
+    /*browser
+	-moz-transform: rotate(15deg); 
+    -ms-transform: rotate(15deg); 
+    -o-transform: rotate(15deg); 
+    -webkit-transform: rotate(15deg);
+	
+    transform: rotate(0deg); 
+	*/
+} 
+/*
+#ball2 { 
+    background-color: #;  
+    transform: rotate(40deg); 
+} 
+
+#ball3 { 
+    background-color: #; 
+    transform: rotate(80deg); 
+} 
+
+#ball4 { 
+    background-color: #; 
+    transform: rotate(120deg); 
+}
+
+#ball5 { 
+    background-color: ; 
+    transform: rotate(160deg); 
+} 
+
+#ball6 { 
+    background-color: #; 
+    transform: rotate(200deg); 
+} 
+
+#ball7 { 
+    background-color: #; 
+    transform: rotate(240deg); 
+} 
+
+#ball8 { 
+    background-color: #; 
+    transform: rotate(280deg); 
+}
+
+#ball9 { 
+    background-color: #; 
+    transform: rotate(320deg); 
+}*/
+
+
